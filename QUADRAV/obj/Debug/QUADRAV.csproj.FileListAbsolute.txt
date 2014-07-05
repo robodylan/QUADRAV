@@ -1,1 +1,9 @@
 C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\QUADRAV.exe.config
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\QUADRAV.exe
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\QUADRAV.pdb
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\obj\Debug\QUADRAV.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\obj\Debug\QUADRAV.exe
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\obj\Debug\QUADRAV.pdb

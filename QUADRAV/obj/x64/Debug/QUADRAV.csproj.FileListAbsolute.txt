@@ -1,0 +1,8 @@
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\QUADRAV.exe.config
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\QUADRAV.exe
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\QUADRAV.pdb
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\sfmlnet-audio-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\sfmlnet-graphics-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\bin\x64\Debug\sfmlnet-window-2.dll
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\obj\x64\Debug\QUADRAV.exe
+C:\Users\Dylan\Documents\GitHub\QUADRAV\QUADRAV\obj\x64\Debug\QUADRAV.pdb
